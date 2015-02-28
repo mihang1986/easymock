@@ -1,0 +1,11 @@
+#  Global #
+*.class
+*.jar
+*.war
+*.ear
+
+# esaymock [eclipse / intellij] #
+.project
+.settings
+.classpath
+target

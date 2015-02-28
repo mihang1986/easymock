@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="easymock:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="easymock-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="easymock:war exploded" />
+    </root>
+  </artifact>
+</component>
